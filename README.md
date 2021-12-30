@@ -19,6 +19,6 @@ I'm Diogo Neto and currently I'm learning how to program proprerly at uminho uni
 Uni work:
 
 1st year 
-          1st semester ->  Proramação Funcional - https://github.com/diogorn/Programacao-Funcional
-                           Laboratórios de Informática I - https://gitlab.com/uminho-di/li1/2122/2021li1g083
-          2nd semester -> Laboratórios de Informática I - https://github.com/diogorn/CCPL3G04
+          1st semester ->  Proramação Funcional - ./https://github.com/diogorn/Programacao-Funcional
+                           Laboratórios de Informática I - ./https://gitlab.com/uminho-di/li1/2122/2021li1g083
+          2nd semester -> Laboratórios de Informática I - ./https://github.com/diogorn/CCPL3G04
