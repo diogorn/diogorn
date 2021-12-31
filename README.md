@@ -13,23 +13,24 @@
   <img align="center" alt="Dioho-hs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-plain.svg">
 </div>
   
-</div>
-
-**Programação Funcional** - [Fichas](https://github.com/diogorn/Programacao-Funcional)
-</div>
+<div>
   
-**Laboratórios de Informática I** - [Projeto] - still loading
-</div>
+   **Programação Funcional** - [Fichas](https://github.com/diogorn/Programacao-Funcional)
+  
+   **Laboratórios de Informática I** - [Projeto] - still loading
 #
+
+</div> 
 
 #### 2<sup>nd</sup> semester           
 <div style="display: inline_block"><br> 
   <img align="center" alt="Diogo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-</div>
-          
+</div>   
+
 **Laboratórios de Informática II** - [Projeto](https://github.com/diogorn/CCPL3G04)
-  
-# 
+</div>
+
+#
 
  
   ![Snake animation](https://github.com/diogorn/diogorn/blob/output/github-contribution-grid-snake.svg)
