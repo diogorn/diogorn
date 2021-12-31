@@ -1,12 +1,17 @@
-### Hi there, I'm Diogo 👋
-####  Currently I'm learning how to program proprerly at uminho university, here it´s some of my work:
+### **Hi there, I'm Diogo** 👋
+
+#
 
 <div align="center">
   <a href="https://github.com/diogorn">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=diogorn&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogorn&layout=compact&langs_count=7&theme=onedark"/>
 </div>
-          
+ 
+#
+  
+####  Trying to be a developer, here it´s some of my work:
+  
 ## 1<sup>st</sup> year 
 #### 1<sup>st</sup> semester 
 <div style="display: inline_block"><br>
