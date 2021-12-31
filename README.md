@@ -32,6 +32,6 @@
 
 #
 
-  ![Snake animation](https://github.com/diogorn/diogorn/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/diogorn/diogorn/blob/output/github-contribution-grid-snake.gif)
  
 </div>
