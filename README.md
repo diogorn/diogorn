@@ -1,5 +1,5 @@
 ### **Hi there, I'm Diogo** 👋
-
+####  Trying to be a developer, here it´s some of my work:
 #
 
 <div align="center">
@@ -9,8 +9,6 @@
 </div>
  
 #
-  
-####  Trying to be a developer, here it´s some of my work:
   
 ## 1<sup>st</sup> year 
 #### 1<sup>st</sup> semester 
