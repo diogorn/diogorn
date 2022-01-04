@@ -1,5 +1,5 @@
 ### **Hi there, I'm Diogo** 👋
-####  Trying to be a developer, here it´s some of my work:
+######  Trying to be a developer.
 #
 
 <div align="center">
@@ -9,7 +9,7 @@
 </div>
  
 #
-  
+### Here it´s some of my work at uni:
 ## 1<sup>st</sup> year 
 #### 1<sup>st</sup> semester 
 <div style="display: inline_block"><br>
@@ -18,9 +18,9 @@
   
 <div>
   
-   **Programação Funcional** - [Fichas](https://github.com/diogorn/Programacao-Funcional)
+- **Programação Funcional** - [Fichas](https://github.com/diogorn/Programacao-Funcional)
   
-   **Laboratórios de Informática I** - [Projeto] - still loading
+- **Laboratórios de Informática I** - [Projeto] - still loading
 #
 
 </div> 
@@ -30,7 +30,7 @@
   <img align="center" alt="Diogo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
 </div>   
 
-**Laboratórios de Informática II** - [Projeto](https://github.com/diogorn/CCPL3G04)
+- **Laboratórios de Informática II** - [Projeto](https://github.com/diogorn/CCPL3G04)
 </div>
 
 #
