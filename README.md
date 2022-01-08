@@ -33,6 +33,3 @@
 - **Laboratórios de Informática II** - [Projeto](https://github.com/diogorn/CCPL3G04)
 </div>
 
-#
-
-  ![Snake animation](https://github.com/diogorn/diogorn/blob/output/github-contribution-grid-snake.svg)
