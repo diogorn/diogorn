@@ -18,7 +18,7 @@
   
 <div>
   
-- **Programação Funcional** - [Fichas](https://github.com/diogorn/Programacao-Funcional)
+- **Programação Funcional** - [Fichas](https://github.com/diogorn/Programacao-Funcional.git)
   
 - **Laboratórios de Informática I** - [Projeto](https://github.com/diogorn/BlockDude.git)
 #
