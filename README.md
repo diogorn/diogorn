@@ -20,7 +20,7 @@
   
 - **Programação Funcional** - [Fichas](https://github.com/diogorn/Programacao-Funcional)
   
-- **Laboratórios de Informática I** - [Projeto] - still loading
+- **Laboratórios de Informática I** - [Projeto](https://github.com/diogorn/BlockDude.git)
 #
 
 </div> 
