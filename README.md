@@ -16,7 +16,6 @@
   <img align="center" alt="Dioho-hs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-plain.svg">
 </div>
   
-<div>
   
 - **Programação Funcional** - [Fichas](https://github.com/diogorn/Programacao-Funcional.git)
   
