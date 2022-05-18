@@ -1,5 +1,5 @@
 ### **Hi there, I'm Diogo** 👋
-######  Trying to be a developer.
+######  Trying to be a developer (I have stickers). 
 #
 
 <div align="center">
